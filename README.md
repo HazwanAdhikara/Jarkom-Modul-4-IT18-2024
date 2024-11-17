@@ -16,6 +16,18 @@
 
 # CIDR
 
+## Topology
+
+![topologi-modul-4](https://github.com/user-attachments/assets/a0acf502-d0a9-4932-b1b9-4b47ef6dfb8d)
+
+## **Pembagian IP**
+
+![image](https://github.com/user-attachments/assets/091317c2-5f34-4163-90fa-da4afb347645)
+
+## **Tree**
+
+![Untitled Diagram](https://github.com/user-attachments/assets/55d4c2ad-3ea8-409c-99de-792988c7f0d8)
+
 ## **Network Configuration**
 
 ### Hololive (Gateway)
