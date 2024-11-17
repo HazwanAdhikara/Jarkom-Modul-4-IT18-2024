@@ -76,21 +76,20 @@ iface eth2 inet static
 
 ### Holo-Myth (Gateway)
 ```
-### A16
+#A16
 auto eth0
 iface eth0 inet static
     address 192.242.66.2
     netmask 255.255.255.252
     gateway 192.242.66.1
 
-### A17
-```bash
+#A17
 auto eth1
 iface eth1 inet static
     address 192.242.64.1
     netmask 255.255.254.0
 
-##A19
+#A19
 auto eth2
 iface eth2 inet static
     address 192.242.32.65
@@ -127,7 +126,6 @@ iface eth0 inet static
     gateway 192.242.16.33
 
 #A22
-```
 auto eth1
 iface eth1 inet static
     address 192.242.16.1
@@ -227,6 +225,7 @@ iface eth0 inet static
 ```
 
 ### Holo-ID (Gateway)
+```
 #A1
 auto eth0
 iface eth0 inet static
@@ -250,10 +249,10 @@ auto eth3
 iface eth3 inet static
     address 192.242.34.1
     netmask 255.255.255.252
-
-## AREA15 (Gateway)
-#A2
 ```
+### AREA15 (Gateway)
+```
+#A2
 auto eth0
 iface eth0 inet static
     address 192.242.4.2
