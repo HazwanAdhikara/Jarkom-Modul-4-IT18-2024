@@ -118,6 +118,7 @@ iface eth0 inet static
 ```
 
 ### Holo Advent (Gateway)
+```
 #A21
 auto eth0
 iface eth0 inet static
