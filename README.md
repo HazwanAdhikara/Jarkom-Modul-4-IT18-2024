@@ -16,8 +16,6 @@
 
 # CIDR
 
-Berikut adalah konfigurasi yang telah disesuaikan dengan tabel IP yang telah Anda buat, dalam format `readme.md`:
-
 ## **Network Configuration**
 
 ### Hololive (Gateway)
