@@ -1,4 +1,4 @@
-![2](https://github.com/user-attachments/assets/6fd8b863-0811-4f21-a1f8-406e51621a79)# Jarkom-Modul-4-IT18-2024
+# Jarkom-Modul-4-IT18-2024
 
 **KELOMPOK IT18**
 | Nama | NRP |
