@@ -1,4 +1,4 @@
-# Jarkom-Modul-4-IT18-2024
+![2](https://github.com/user-attachments/assets/6fd8b863-0811-4f21-a1f8-406e51621a79)# Jarkom-Modul-4-IT18-2024
 
 **KELOMPOK IT18**
 | Nama | NRP |
@@ -33,6 +33,55 @@
 ## **Pembagian IP**
 
 ![image](https://github.com/user-attachments/assets/091317c2-5f34-4163-90fa-da4afb347645)
+
+## Pennggabungann
+
+### Langkah 1
+
+![1](https://github.com/user-attachments/assets/53b5b894-88af-4f51-b077-643dbbe4d93b)
+
+
+### Langkah 2
+
+![2](https://github.com/user-attachments/assets/d35f1359-a6bf-44bf-a7b0-6edcc0b1c754)
+
+
+### Langkah 3
+
+![3](https://github.com/user-attachments/assets/770b7600-7f86-4840-be37-ccc2a1f25a5b)
+
+
+### Langkah 4
+
+![4](https://github.com/user-attachments/assets/c2e84d57-9ef2-4119-b439-38822f62d57a)
+
+
+### Langkah 5
+
+![5](https://github.com/user-attachments/assets/dfc9c89c-d6b4-4b3c-b5ea-910669d22190)
+
+### Langkah 6
+
+![6](https://github.com/user-attachments/assets/a3941c8f-804e-4557-899c-2a9b8c5d9fb4)
+
+
+### Langkah 7
+
+![7](https://github.com/user-attachments/assets/a3193667-3125-4fe5-92da-45747c6ef228)
+
+
+### Langkah 8
+
+![8](https://github.com/user-attachments/assets/1a7d61e2-d24e-4571-b440-7d6658f92003)
+
+### Langkah 9
+
+![image](https://github.com/user-attachments/assets/b13a1c24-50a6-4839-86a2-ee09641bb972)
+
+### Langkah 10
+
+![10](https://github.com/user-attachments/assets/66f0b7fb-e229-44cc-8cce-ba25c0a50d2d)
+
 
 ## **Tree**
 
