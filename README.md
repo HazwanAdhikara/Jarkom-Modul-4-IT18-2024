@@ -72,9 +72,6 @@
 
 ![10](https://github.com/user-attachments/assets/66f0b7fb-e229-44cc-8cce-ba25c0a50d2d)
 
-### Langkah 11
-
-![11](https://github.com/user-attachments/assets/686998f2-297a-4d71-b86e-51f37690e617)
 
 ## **Tree**
 
