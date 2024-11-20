@@ -8,11 +8,21 @@
 
 <hr>
 
+# VLSM
+
 ## Topology
 
 **Cisco Packet Tracer**
-<img src="./public/image.png">
+<img src="./public/topocpt.png">
 
+**Rute dan Area Subnet**
+<img src="./public/rute.png">
+
+**Tree**
+<img src="./public/tree.png">
+
+**Pembagian IP - VLSM**
+<img src="./public/ipvlsm.png">
 
 # CIDR
 
@@ -31,6 +41,7 @@
 ## **Network Configuration**
 
 ### Hololive (Gateway)
+
 ```
 #A15
 bash
@@ -53,6 +64,7 @@ iface eth3 inet static
 ```
 
 ### Holo-EN (Gateway)
+
 ```
 #A15
 auto eth0
@@ -75,6 +87,7 @@ iface eth2 inet static
 ```
 
 ### Holo-Myth (Gateway)
+
 ```
 #A16
 auto eth0
@@ -97,6 +110,7 @@ iface eth2 inet static
 ```
 
 ### Gura_Ame_Ina (Client)
+
 ```
 #A17
 auto eth0
@@ -107,6 +121,7 @@ iface eth0 inet static
 ```
 
 ### Kiara_Calli (Client)
+
 ```
 #A17
 auto eth0
@@ -117,6 +132,7 @@ iface eth0 inet static
 ```
 
 ### Holo Advent (Gateway)
+
 ```
 #A21
 auto eth0
@@ -133,6 +149,7 @@ iface eth1 inet static
 ```
 
 ### FuwaMoco (Client)
+
 ```
 #A22
 auto eth0
@@ -143,6 +160,7 @@ iface eth0 inet static
 ```
 
 ### Shiori_Nerissa (Client)
+
 ```
 #A22
 auto eth0
@@ -153,6 +171,7 @@ iface eth0 inet static
 ```
 
 ### Biboo (Client)
+
 ```
 #A22
 auto eth0
@@ -163,6 +182,7 @@ iface eth0 inet static
 ```
 
 ### Project-Hope (Gateway)
+
 ```
 #A19
 auto eth0
@@ -179,6 +199,7 @@ iface eth1 inet static
 ```
 
 ### Irys (Client)
+
 ```
 #A18
 auto eth0
@@ -189,6 +210,7 @@ iface eth0 inet static
 ```
 
 ### Holo-Council (Gateway)
+
 ```
 #A19
 auto eth0
@@ -205,6 +227,7 @@ iface eth1 inet static
 ```
 
 ### Kronii_Mumei (Client)
+
 ```
 #A20
 auto eth0
@@ -215,6 +238,7 @@ iface eth0 inet static
 ```
 
 ### Bae_Fauna (Client)
+
 ```
 #A20
 auto eth0
@@ -225,6 +249,7 @@ iface eth0 inet static
 ```
 
 ### Holo-ID (Gateway)
+
 ```
 #A1
 auto eth0
@@ -250,7 +275,9 @@ iface eth3 inet static
     address 192.242.34.1
     netmask 255.255.255.252
 ```
+
 ### AREA15 (Gateway)
+
 ```
 #A2
 auto eth0
@@ -267,6 +294,7 @@ iface eth1 inet static
 ```
 
 ### lofi (Client)
+
 ```
 #A3
 auto eth0
@@ -277,6 +305,7 @@ iface eth0 inet static
 ```
 
 ### Moona (Client)
+
 ```
 #A3
 auto eth0
@@ -287,6 +316,7 @@ iface eth0 inet static
 ```
 
 ### Risu (Client)
+
 ```
 #A3
 auto eth0
@@ -297,6 +327,7 @@ iface eth0 inet static
 ```
 
 ### holoro (Gateway)
+
 ```
 #A4
 auto eth0
@@ -313,6 +344,7 @@ iface eth1 inet static
 ```
 
 ### Ollie (Client)
+
 ```
 #A5
 auto eth0
@@ -323,6 +355,7 @@ iface eth0 inet static
 ```
 
 ### Anya (Client)
+
 ```
 #A5
 auto eth0
@@ -333,6 +366,7 @@ iface eth0 inet static
 ```
 
 ### Reine (Client)
+
 ```
 #A5
 auto eth0
@@ -343,6 +377,7 @@ iface eth0 inet static
 ```
 
 ### holoh3ro (Gateway)
+
 ```
 #A6
 auto eth0
